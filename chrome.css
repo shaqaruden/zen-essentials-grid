@@ -1,0 +1,4 @@
+#zen-essentials-container,
+.zen-essentials-container {
+    grid-template-columns: repeat(var(--eg-mod-essentials-grid-count)) !important;
+}

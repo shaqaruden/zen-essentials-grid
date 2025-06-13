@@ -1,0 +1,9 @@
+[
+    {
+        "property": "eg-mod.essentials.grid.count",
+        "label": "Number of slots in essentials grid.",
+        "type": "string",
+        "disabledOn": [],
+        "defaultValue": "4"
+    }
+]
